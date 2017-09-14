@@ -13,7 +13,7 @@ Twitter data를 이용해 토픽모델링(NMF; Nonnegative Matrix Factorization)
 
 ## Dependency
 
-* python 3.5 or 3.6
+* Anaconda Python 3.6
 * pip install stop-words
 * pip install bokeh
 * pip install wordcloud
