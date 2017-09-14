@@ -33,3 +33,11 @@ Twitter data를 이용해 토픽모델링(NMF; Nonnegative Matrix Factorization)
 1. preprocess_twit.ipynb
 2. topic_modeling_twit.ipynb
 3. topicmodeling_time.ipynb
+
+
+## Output
+### Bokeh time series graph
+![Alt text](./img/bokeh_plot.png)
+
+### Wordcloud 
+![Alt text](./img/wordcloud.png)
