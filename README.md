@@ -36,6 +36,9 @@ Twitter data를 이용해 토픽모델링(NMF; Nonnegative Matrix Factorization)
 
 
 ## Output
+### t-SNE 
+![Alt text](./img/tsne.png)
+
 ### Bokeh time series graph
 ![Alt text](./img/bokeh_plot.png)
 
